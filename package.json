@@ -1,7 +1,7 @@
 {
   "name": "@swarm-io/release-config-template",
   "version": "1.0.0",
-  "description": "semantic-release release configuration template repository",
+  "description": "semantic-release shareable release configuration template repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
