@@ -1,5 +1,5 @@
 {
-  "name": "release-config-template",
+  "name": "@swarm-io/release-config-template",
   "version": "1.0.0",
   "description": "semantic-release release configuration template repository",
   "main": "index.js",
