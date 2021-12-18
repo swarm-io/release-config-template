@@ -1,7 +1,7 @@
 {
   "name": "@swarm-io/release-config-template",
   "version": "1.0.0",
-  "description": "Shareable release configuration for github action releases",
+  "description": "semantic-release shareable release configuration template repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/swarm-io/release-config-template.git"
   },
-  "author": "zack stevens",
+  "author": "swarm io",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/swarm-io/release-config-template/issues"
